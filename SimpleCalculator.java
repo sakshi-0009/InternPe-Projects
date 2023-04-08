@@ -1,4 +1,4 @@
-//Make a simple calculator program in java.
+//Make a simple calculator program in java:-
 
 package InternPe;
 
